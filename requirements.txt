@@ -1,0 +1,3 @@
+ddddocr
+playwright
+pyyaml

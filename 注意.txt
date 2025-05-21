@@ -1,0 +1,1 @@
+还需要 playwright install chromium  安装浏览器。
